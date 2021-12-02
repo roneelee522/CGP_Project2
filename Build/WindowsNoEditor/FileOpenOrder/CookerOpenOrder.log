@@ -2,68 +2,68 @@
 "../../../../../Unreal Projects/CGP_Project2/Content/bridge-small-2.uasset" 1
 "../../../../../Unreal Projects/CGP_Project2/Content/bridge-small.uasset" 2
 "../../../../../Unreal Projects/CGP_Project2/Content/bridge_2.uasset" 3
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 4
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 5
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 6
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 7
-"../../../Engine/Content/BasicShapes/Cube.uasset" 8
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 9
-"../../../../../Unreal Projects/CGP_Project2/Content/SM_MERGED_Cylinder_5.uasset" 10
-"../../../../../Unreal Projects/CGP_Project2/Content/UI/button.uasset" 11
-"../../../../../Unreal Projects/CGP_Project2/Content/button_click.uasset" 12
-"../../../../../Unreal Projects/CGP_Project2/Content/button_hover.uasset" 13
-"../../../../../Unreal Projects/CGP_Project2/Content/UI/Feathercount_persistence.uasset" 14
-"../../../../../Unreal Projects/CGP_Project2/Content/UI/Pause_Menu.uasset" 15
-"../../../../../Unreal Projects/CGP_Project2/Content/sound/Jump_audio.uasset" 16
-"../../../../../Unreal Projects/CGP_Project2/Content/sound/Dash_audio.uasset" 17
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/wings_flapping_PhysicsAsset.uasset" 18
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/wings_flapping_Skeleton.uasset" 19
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/wings_OcclusionRoughnessMetallic.uasset" 20
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/wings_Normal.uasset" 21
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/wings_BaseColor.uasset" 22
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/wings_Mat.uasset" 23
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/wings_flapping.uasset" 24
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 25
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 26
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/wings_flapping_Anim.uasset" 27
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/wings_ANIMBP.uasset" 28
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_idle_PhysicsAsset.uasset" 29
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/eye_OcclusionRoughnessMetallic.uasset" 30
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/eye_Normal.uasset" 31
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/eye_BaseColor.uasset" 32
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/eye.uasset" 33
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_idle_Skeleton.uasset" 34
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_OcclusionRoughnessMetallic.uasset" 35
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_Normal.uasset" 36
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_Emissive.uasset" 37
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_BaseColor.uasset" 38
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character.uasset" 39
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_idle.uasset" 40
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_jumpstill.uasset" 41
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_dashstill.uasset" 42
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_running.uasset" 43
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_idle_Anim.uasset" 44
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/Character_ANIMBlendSpace.uasset" 45
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/Character_ANIMBP.uasset" 46
-"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/Blueprints/PlayerHealthbar_WBP.uasset" 47
-"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/Blueprints/Halo_M.uasset" 48
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 49
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 50
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 51
-"../../../../../Unreal Projects/CGP_Project2/Content/Fx/star_dust.uasset" 52
-"../../../../../Unreal Projects/CGP_Project2/Content/Fx/star_dust_m.uasset" 53
-"../../../../../Unreal Projects/CGP_Project2/Content/Fx/Star_dust_p.uasset" 54
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Materelas/feather2.uasset" 55
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Materelas/lambert33.uasset" 56
-"../../../../../Unreal Projects/CGP_Project2/Content/sound/Feather_collection.uasset" 57
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/feather.uasset" 58
-"../../../../../Unreal Projects/CGP_Project2/Content/Feather_BP.uasset" 59
-"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/aiStandardSurface2.uasset" 60
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 61
-"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/aiStandardSurface3.uasset" 62
-"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/F.uasset" 63
-"../../../../../Unreal Projects/CGP_Project2/Content/Glider.uasset" 64
-"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset" 65
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 4
+"../../../../../Unreal Projects/CGP_Project2/Content/SM_MERGED_Cylinder_5.uasset" 5
+"../../../../../Unreal Projects/CGP_Project2/Content/UI/button.uasset" 6
+"../../../../../Unreal Projects/CGP_Project2/Content/button_click.uasset" 7
+"../../../../../Unreal Projects/CGP_Project2/Content/button_hover.uasset" 8
+"../../../../../Unreal Projects/CGP_Project2/Content/UI/Feathercount_persistence.uasset" 9
+"../../../../../Unreal Projects/CGP_Project2/Content/UI/Pause_Menu.uasset" 10
+"../../../../../Unreal Projects/CGP_Project2/Content/sound/Jump_audio.uasset" 11
+"../../../../../Unreal Projects/CGP_Project2/Content/sound/Dash_audio.uasset" 12
+"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/Blueprints/PlayerHealthbar_WBP.uasset" 13
+"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/Blueprints/Halo_M.uasset" 14
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 15
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 16
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 17
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 18
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 19
+"../../../../../Unreal Projects/CGP_Project2/Content/Fx/star_dust.uasset" 20
+"../../../../../Unreal Projects/CGP_Project2/Content/Fx/star_dust_m.uasset" 21
+"../../../../../Unreal Projects/CGP_Project2/Content/Fx/Star_dust_p.uasset" 22
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/wings_flapping_PhysicsAsset.uasset" 23
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/wings_flapping_Skeleton.uasset" 24
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/wings_OcclusionRoughnessMetallic.uasset" 25
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/wings_Normal.uasset" 26
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/wings_BaseColor.uasset" 27
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/wings_Mat.uasset" 28
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/wings_flapping.uasset" 29
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 30
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 31
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/wings_flapping_Anim.uasset" 32
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/wings_ANIMBP.uasset" 33
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_idle_PhysicsAsset.uasset" 34
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/eye_OcclusionRoughnessMetallic.uasset" 35
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/eye_Normal.uasset" 36
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/eye_BaseColor.uasset" 37
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/eye.uasset" 38
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_idle_Skeleton.uasset" 39
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_OcclusionRoughnessMetallic.uasset" 40
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_Normal.uasset" 41
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_Emissive.uasset" 42
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_BaseColor.uasset" 43
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character.uasset" 44
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_idle.uasset" 45
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_jumpstill.uasset" 46
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_dashstill.uasset" 47
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_running.uasset" 48
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_idle_Anim.uasset" 49
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/Character_ANIMBlendSpace.uasset" 50
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/Character_ANIMBP.uasset" 51
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 52
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Materelas/feather2.uasset" 53
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Materelas/lambert33.uasset" 54
+"../../../../../Unreal Projects/CGP_Project2/Content/sound/Feather_collection.uasset" 55
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/feather.uasset" 56
+"../../../../../Unreal Projects/CGP_Project2/Content/Feather_BP.uasset" 57
+"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/aiStandardSurface2.uasset" 58
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 59
+"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/aiStandardSurface3.uasset" 60
+"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/F.uasset" 61
+"../../../../../Unreal Projects/CGP_Project2/Content/Glider.uasset" 62
+"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset" 63
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 64
+"../../../Engine/Content/BasicShapes/Cube.uasset" 65
 "../../../../../Unreal Projects/CGP_Project2/Content/Door.uasset" 66
 "../../../../../Unreal Projects/CGP_Project2/Content/feather-1.uasset" 67
 "../../../../../Unreal Projects/CGP_Project2/Content/Feather_BP1.uasset" 68
@@ -94,39 +94,39 @@
 "../../../../../Unreal Projects/CGP_Project2/Content/enemies/lambert1.uasset" 93
 "../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 94
 "../../Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 95
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 96
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 97
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 98
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 99
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 100
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 101
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 102
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 103
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 104
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 105
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 106
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 107
-"../../../../../Unreal Projects/CGP_Project2/Content/Fx/T_Tornado.uasset" 108
-"../../../../../Unreal Projects/CGP_Project2/Content/Fx/Tornado_M.uasset" 109
-"../../../../../Unreal Projects/CGP_Project2/Content/Fx/ring.uasset" 110
-"../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleMeshSize.uasset" 111
-"../../Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 112
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 113
-"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 114
-"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 115
-"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 116
-"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 117
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 118
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 119
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 120
-"../../Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 121
-"../../Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 122
-"../../Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 123
-"../../Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 124
-"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 125
-"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 126
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 127
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 128
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 96
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 97
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 98
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 99
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 100
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 101
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 102
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 103
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 104
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 105
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 106
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 107
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 108
+"../../../../../Unreal Projects/CGP_Project2/Content/Fx/T_Tornado.uasset" 109
+"../../../../../Unreal Projects/CGP_Project2/Content/Fx/Tornado_M.uasset" 110
+"../../../../../Unreal Projects/CGP_Project2/Content/Fx/ring.uasset" 111
+"../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleMeshSize.uasset" 112
+"../../Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 113
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 114
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 115
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 116
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 117
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 118
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 119
+"../../Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 120
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 121
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 122
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 123
+"../../Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 124
+"../../Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 125
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 126
+"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 127
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 128
 "../../Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 129
 "../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 130
 "../../Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uasset" 131
@@ -183,14 +183,14 @@
 "../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Materelas/slide3.uasset" 182
 "../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Materelas/lambert35.uasset" 183
 "../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Slide.uasset" 184
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_slide.uasset" 185
-"../../../../../Unreal Projects/CGP_Project2/Content/sound/slide_audio.uasset" 186
+"../../../../../Unreal Projects/CGP_Project2/Content/sound/slide_audio.uasset" 185
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/character_slide.uasset" 186
 "../../../../../Unreal Projects/CGP_Project2/Content/Slide_BP.uasset" 187
 "../../../../../Unreal Projects/CGP_Project2/Content/Mesh/Slide_BP.uasset" 188
 "../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/billboard_tree_n.uasset" 189
 "../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/billboard_tree_d.uasset" 190
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 191
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 192
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 191
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 192
 "../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 193
 "../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Materials/billboard.uasset" 194
 "../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/billboard_tree_colors.uasset" 195
@@ -202,17 +202,17 @@
 "../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/SM_soil_desert_a_d.uasset" 201
 "../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/SM_sand_pebbles_a_n.uasset" 202
 "../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_ColorBurn.uasset" 203
-"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/landscape_splat.uasset" 204
-"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/SM_ground_gravel_b_n.uasset" 205
-"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/snow_terrain_n.uasset" 206
+"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/snow_terrain_n.uasset" 204
+"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/landscape_splat.uasset" 205
+"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/SM_ground_gravel_b_n.uasset" 206
 "../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Materials/desert_terrain.uasset" 207
-"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/SM_snow_a_n.uasset" 208
-"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/SM_snow_a_d.uasset" 209
-"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/SM_rock_a_n.uasset" 210
+"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/pr_background_mountain_a_winter_Splat.uasset" 208
+"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/pr_background_mountain_a_N.uasset" 209
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Difference.uasset" 210
 "../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/SM_rock_a_d.uasset" 211
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Difference.uasset" 212
-"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/pr_background_mountain_a_winter_Splat.uasset" 213
-"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/pr_background_mountain_a_N.uasset" 214
+"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/SM_snow_a_d.uasset" 212
+"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/SM_snow_a_n.uasset" 213
+"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/SM_rock_a_n.uasset" 214
 "../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Materials/Mountain_Winter/pr_background_mountain_a_M_winter.uasset" 215
 "../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/pr_background_mountain_b_winter_SPLAT.uasset" 216
 "../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/pr_background_mountain_b_N.uasset" 217
@@ -482,212 +482,212 @@
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 481
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 482
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 483
-"../../Plugins/FX/Niagara/Content/Modules/Update/Material/DynamicMaterialParameters.uasset" 484
-"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeVector.uasset" 485
-"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeFloat.uasset" 486
-"../../Plugins/FX/Niagara/Content/DynamicInputs/LinearColor/MultiplyLinearColor.uasset" 487
-"../../../../../Unreal Projects/CGP_Project2/Content/enemies/P-Tor_2.uasset" 488
-"../../../../../Unreal Projects/CGP_Project2/Content/enemies/wind.uasset" 489
-"../../../../../Unreal Projects/CGP_Project2/Content/enemies/EnemyHealthbar_WBP.uasset" 490
-"../../../../../Unreal Projects/CGP_Project2/Content/enemies/enemy_low_horns_low.uasset" 491
-"../../../../../Unreal Projects/CGP_Project2/Content/enemies/enemy_low_eyes_low.uasset" 492
-"../../../../../Unreal Projects/CGP_Project2/Content/enemies/enemy_low_body_low.uasset" 493
-"../../../../../Unreal Projects/CGP_Project2/Content/enemies/bird.uasset" 494
-"../../../../../Unreal Projects/CGP_Project2/Content/Background/cloud-8121.uasset" 495
-"../../../../../Unreal Projects/CGP_Project2/Content/Background/Cloud.uasset" 496
-"../../../../../Unreal Projects/CGP_Project2/Content/Background/Background_O2.uasset" 497
-"../../../../../Unreal Projects/CGP_Project2/Content/Background/Background_O1.uasset" 498
-"../../../../../Unreal Projects/CGP_Project2/Content/Background/Background_O.uasset" 499
-"../../../../../Unreal Projects/CGP_Project2/Content/Background/Background_BP.uasset" 500
-"../../../../../Unreal Projects/CGP_Project2/Content/Fx/Portal_M.uasset" 501
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 484
+"../../../../../Unreal Projects/CGP_Project2/Content/enemies/snowball_4.uasset" 485
+"../../../../../Unreal Projects/CGP_Project2/Content/enemies/snowball_3.uasset" 486
+"../../../../../Unreal Projects/CGP_Project2/Content/enemies/snowball_2.uasset" 487
+"../../../../../Unreal Projects/CGP_Project2/Content/enemies/snowball_1.uasset" 488
+"../../../../../Unreal Projects/CGP_Project2/Content/enemies/EnemyHealthbar_WBP.uasset" 489
+"../../../../../Unreal Projects/CGP_Project2/Content/enemies/enemy_low_horns_low.uasset" 490
+"../../../../../Unreal Projects/CGP_Project2/Content/enemies/enemy_low_eyes_low.uasset" 491
+"../../../../../Unreal Projects/CGP_Project2/Content/enemies/enemy_low_body_low.uasset" 492
+"../../../../../Unreal Projects/CGP_Project2/Content/enemies/Yeti.uasset" 493
+"../../../../../Unreal Projects/CGP_Project2/Content/sound/ingame_music.uasset" 494
+"../../../../../Unreal Projects/CGP_Project2/Content/sound/Background_music.uasset" 495
+"../../../../../Unreal Projects/CGP_Project2/Content/Background/cloud-8121.uasset" 496
+"../../../../../Unreal Projects/CGP_Project2/Content/Background/Cloud.uasset" 497
+"../../../../../Unreal Projects/CGP_Project2/Content/Background/Background_O2.uasset" 498
+"../../../../../Unreal Projects/CGP_Project2/Content/Background/Background_O1.uasset" 499
+"../../../../../Unreal Projects/CGP_Project2/Content/Background/Background_O.uasset" 500
+"../../../../../Unreal Projects/CGP_Project2/Content/Background/Background_BP.uasset" 501
 "../../../Engine/Content/EngineMeshes/Cube.uasset" 502
-"../../../../../Unreal Projects/CGP_Project2/Content/Portal_BP.uasset" 503
-"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/CheckpointSystem_BP/Checkpoint_recover.uasset" 504
+"../../../../../Unreal Projects/CGP_Project2/Content/Fx/Portal_M.uasset" 503
+"../../../../../Unreal Projects/CGP_Project2/Content/Portal_BP.uasset" 504
 "../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/CheckpointSystem_BP/PlayerDataObject.uasset" 505
 "../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/CheckpointSystem_BP/LevelDataObject.uasset" 506
-"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset" 507
-"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/CheckpointSystem_BP/RespawnBP.uasset" 508
-"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/CheckpointSystem_BP/star.uasset" 509
-"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/CheckpointSystem_BP/Star_Widget.uasset" 510
-"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/CheckpointSystem_BP/StarSpin_BP.uasset" 511
-"../../../../../Unreal Projects/CGP_Project2/Content/Fx/11.uasset" 512
-"../../../../../Unreal Projects/CGP_Project2/Content/Fx/Wind_M.uasset" 513
-"../../../../../Unreal Projects/CGP_Project2/Content/Fx/Wind_P.uasset" 514
-"../../../../../Unreal Projects/CGP_Project2/Content/TestLevel_1/TestLevel_Blueprints/Gustwind_bp.uasset" 515
-"../../../../../Unreal Projects/CGP_Project2/Content/Fx/P-Tor.uasset" 516
-"../../../../../Unreal Projects/CGP_Project2/Content/TestLevel_1/TestLevel_Blueprints/JumpPad_H_BP.uasset" 517
-"../../../../../Unreal Projects/CGP_Project2/Content/Level3_BuiltData.uasset" 518
-"../../Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 519
-"../../Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uasset" 520
-"../../Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uasset" 521
-"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uasset" 522
-"../../../../../Unreal Projects/CGP_Project2/Content/weather/pngfind_com-feathers-png-474261.uasset" 523
-"../../../../../Unreal Projects/CGP_Project2/Content/weather/Feather_M.uasset" 524
-"../../../../../Unreal Projects/CGP_Project2/Content/weather/Feather_EM.uasset" 525
-"../../../../../Unreal Projects/CGP_Project2/Content/weather/Feather.uasset" 526
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Cloud_Platforms/Cloud1a1.uasset" 527
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Cloud_Platforms/lambert38.uasset" 528
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Cloud_Platforms/Cloud1a.uasset" 529
-"../../../../../Unreal Projects/CGP_Project2/Content/UI/Icon_v2__2_.uasset" 530
-"../../../../../Unreal Projects/CGP_Project2/Content/UI/Feather_Icon.uasset" 531
-"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/CheckpointSystem_BP/Feathercount_BP.uasset" 532
-"../../../../../Unreal Projects/CGP_Project2/Content/UI/Ingame_UI.uasset" 533
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Cloud_Platforms/Cloud5.uasset" 534
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Cloud_Platforms/lambert44.uasset" 535
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Cloud_Platforms/Cloud4.uasset" 536
-"../../../../../Unreal Projects/CGP_Project2/Content/sound/ingame_music.uasset" 537
-"../../../../../Unreal Projects/CGP_Project2/Content/sound/Background_music.uasset" 538
-"../../../../../Unreal Projects/CGP_Project2/Content/Portal_BP_winning.uasset" 539
-"../../../../../Unreal Projects/CGP_Project2/Content/Level3.umap" 540
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 541
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 542
-"../../../../../Unreal Projects/CGP_Project2/Content/enemies/MonkeyHealthbar_WBP.uasset" 543
-"../../../../../Unreal Projects/CGP_Project2/Content/enemies/Monkey_AI.uasset" 544
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 545
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Animations/ThirdPersonRun.uasset" 546
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 547
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 548
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 549
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 550
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 551
-"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 552
-"../../../../../Unreal Projects/CGP_Project2/Content/enemies/Monkey.uasset" 553
-"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/SM_grass_c_n.uasset" 554
-"../../../../../Unreal Projects/CGP_Project2/Content/Level4_BuiltData.uasset" 555
-"../../../../../Unreal Projects/CGP_Project2/Content/Portal_BP_Snow.uasset" 556
-"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/grass_fall_a_d.uasset" 557
-"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/grass_fall_a_n.uasset" 558
-"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/SM_grass_c_d.uasset" 559
-"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/SM_ground_gravel_b_d.uasset" 560
-"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Materials/summer_terrain.uasset" 561
-"../../../../../Unreal Projects/CGP_Project2/Content/weather/Mango-Leaf-Decoration-PNG.uasset" 562
-"../../../../../Unreal Projects/CGP_Project2/Content/weather/Leaf_M.uasset" 563
-"../../../../../Unreal Projects/CGP_Project2/Content/weather/LeafEM.uasset" 564
-"../../../../../Unreal Projects/CGP_Project2/Content/weather/Leaf.uasset" 565
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 566
-"../../../../../Unreal Projects/CGP_Project2/Content/Background/tree__5_.uasset" 567
-"../../../../../Unreal Projects/CGP_Project2/Content/Background/lambert19.uasset" 568
-"../../../../../Unreal Projects/CGP_Project2/Content/Background/tree__3_.uasset" 569
-"../../../../../Unreal Projects/CGP_Project2/Content/Background/lambert18.uasset" 570
-"../../../../../Unreal Projects/CGP_Project2/Content/Background/tree-4.uasset" 571
-"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Textures/grass_spec.uasset" 572
-"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Textures/grass_opacity.uasset" 573
-"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Textures/grass_normal.uasset" 574
-"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Textures/grass_albedo.uasset" 575
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 576
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/SpeedTree/SpeedTreeColorVariation.uasset" 577
-"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Materials/MaterialCollection.uasset" 578
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectPivotPoint.uasset" 579
-"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Materials/Bending.uasset" 580
-"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Materials/Interaction.uasset" 581
-"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Materials/MA_OpenWorldFoliage.uasset" 582
-"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Materials/MI_OpenWorldFoliage.uasset" 583
-"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Meshes/openWorld_grass_01_01_03.uasset" 584
-"../../../../../Unreal Projects/CGP_Project2/Content/Level4.umap" 585
-"../../../Engine/Content/BasicShapes/Cone.uasset" 586
-"../../../../../Unreal Projects/CGP_Project2/Content/enemies/Bee_bullet.uasset" 587
-"../../../../../Unreal Projects/CGP_Project2/Content/enemies/Bee.uasset" 588
-"../../../../../Unreal Projects/CGP_Project2/Content/Portal_BP_Forest.uasset" 589
-"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/lambert7.uasset" 590
-"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/aiStandardSurface8.uasset" 591
-"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/F-2A.uasset" 592
-"../../../../../Unreal Projects/CGP_Project2/Content/Level5_BuiltData.uasset" 593
-"../../../../../Unreal Projects/CGP_Project2/Content/weather/pinpng_com-flower-petals-png-240395.uasset" 594
-"../../../../../Unreal Projects/CGP_Project2/Content/weather/Petal_M.uasset" 595
-"../../../../../Unreal Projects/CGP_Project2/Content/weather/Petal.uasset" 596
-"../../../../../Unreal Projects/CGP_Project2/Content/weather/Patel_sy.uasset" 597
-"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/aiStandardSurface7.uasset" 598
-"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/F-2.uasset" 599
-"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/lambert8.uasset" 600
-"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/aiStandardSurface14.uasset" 601
-"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/aiStandardSurface13.uasset" 602
-"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/F-5.uasset" 603
-"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/lambert10.uasset" 604
-"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/aiStandardSurface16.uasset" 605
-"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/F-7.uasset" 606
-"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Meshes/openWorld_flower_01_02.uasset" 607
-"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Meshes/openWorld_flower_02_02.uasset" 608
-"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/aiStandardSurface11.uasset" 609
-"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/F-3.uasset" 610
-"../../../../../Unreal Projects/CGP_Project2/Content/Level5.umap" 611
-"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/snow_terrain_base.uasset" 612
-"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Materials/winter_terrain.uasset" 613
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Textures/Stairs/stairs__1__lambert8_OcclusionRoughnessMetallic.uasset" 614
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Textures/Stairs/stairs__1__lambert8_Normal.uasset" 615
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Textures/Stairs/stairs__1__lambert8_BaseColor.uasset" 616
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Textures/Stairs/Stairs_M.uasset" 617
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/stairs__2_.uasset" 618
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Materelas/BS-2B.uasset" 619
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Materelas/lambert32.uasset" 620
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/B3.uasset" 621
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Materelas/lambert31.uasset" 622
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/B2.uasset" 623
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/B1.uasset" 624
-"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 625
-"../../../../../Unreal Projects/CGP_Project2/Content/weather/Snow_EM.uasset" 626
-"../../../../../Unreal Projects/CGP_Project2/Content/weather/Snow.uasset" 627
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Materelas/BS-1B.uasset" 628
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Materelas/lambert30.uasset" 629
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/B-small.uasset" 630
-"../../../../../Unreal Projects/CGP_Project2/Content/TestLevel_1/TestLevel_Blueprints/MovingPlatform.uasset" 631
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Materelas/gyser1.uasset" 632
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Materelas/lambert34.uasset" 633
-"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/gyser.uasset" 634
-"../../../../../Unreal Projects/CGP_Project2/Content/Fx/eruption_p_H.uasset" 635
-"../../../../../Unreal Projects/CGP_Project2/Content/Fx/eruption_p.uasset" 636
-"../../../../../Unreal Projects/CGP_Project2/Content/TestLevel_1/TestLevel_Blueprints/JumpPad.uasset" 637
-"../../../../../Unreal Projects/CGP_Project2/Content/TestLevel_1/TestLevel_Blueprints/lambert1.uasset" 638
-"../../../../../Unreal Projects/CGP_Project2/Content/TestLevel_1/TestLevel_Blueprints/wall.uasset" 639
-"../../../../../Unreal Projects/CGP_Project2/Content/TestLevel_1/TestLevel_Blueprints/wall_DM.uasset" 640
-"../../../Engine/Content/MapTemplates/TilingNoise05.uasset" 641
-"../../../../../Unreal Projects/CGP_Project2/Content/Rock_N_T.uasset" 642
-"../../../../../Unreal Projects/CGP_Project2/Content/Snow_N_T.uasset" 643
-"../../../../../Unreal Projects/CGP_Project2/Content/Ice_mat.uasset" 644
-"../../../../../Unreal Projects/CGP_Project2/Content/TestLevel_1/TestLevel_Blueprints/BreakableWall.uasset" 645
-"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/CheckpointSystem_BP/DeathBox.uasset" 646
-"../../../../../Unreal Projects/CGP_Project2/Content/Level1_BuiltData.uasset" 647
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 648
-"../../../../../Unreal Projects/CGP_Project2/Content/enemies/snowball_4.uasset" 649
-"../../../../../Unreal Projects/CGP_Project2/Content/enemies/snowball_3.uasset" 650
-"../../../../../Unreal Projects/CGP_Project2/Content/enemies/snowball_2.uasset" 651
-"../../../../../Unreal Projects/CGP_Project2/Content/enemies/snowball_1.uasset" 652
-"../../../../../Unreal Projects/CGP_Project2/Content/enemies/Yeti.uasset" 653
-"../../../../../Unreal Projects/CGP_Project2/Content/Transform.uasset" 654
-"../../../../../Unreal Projects/CGP_Project2/Content/Level1.umap" 655
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 656
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 657
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 658
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 659
-"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset" 660
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 661
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 662
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 663
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 664
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 665
-"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/Blueprints/halo.uasset" 666
-"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" 667
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 668
-"../../../../../Unreal Projects/CGP_Project2/Content/TestLevel_1/TestLevel_1_BuiltData.uasset" 669
-"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/CheckpointSystem_BP/Hint_Widget.uasset" 670
-"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/CheckpointSystem_BP/Hint_BP.uasset" 671
-"../../../../../Unreal Projects/CGP_Project2/Content/TestLevel_1/TestLevel_1.umap" 672
-"../../../../../Unreal Projects/CGP_Project2/Content/UI/lose_screen_image.uasset" 673
-"../../../../../Unreal Projects/CGP_Project2/Content/UI/Lose_widget.uasset" 674
-"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/Blueprints/MenuMode.uasset" 675
-"../../../../../Unreal Projects/CGP_Project2/Content/UI/Lose_screen.umap" 676
-"../../../../../Unreal Projects/CGP_Project2/Content/UI/wings_title.uasset" 677
-"../../../../../Unreal Projects/CGP_Project2/Content/UI/Controller__1_.uasset" 678
-"../../../../../Unreal Projects/CGP_Project2/Content/UI/Loading.uasset" 679
-"../../../../../Unreal Projects/CGP_Project2/Content/UI/button_quit_pressed.uasset" 680
-"../../../../../Unreal Projects/CGP_Project2/Content/UI/button_quit_hover.uasset" 681
-"../../../../../Unreal Projects/CGP_Project2/Content/UI/button_quit.uasset" 682
-"../../../../../Unreal Projects/CGP_Project2/Content/UI/button_play_pressed.uasset" 683
-"../../../../../Unreal Projects/CGP_Project2/Content/UI/button_play_hover.uasset" 684
-"../../../../../Unreal Projects/CGP_Project2/Content/UI/button_play.uasset" 685
-"../../../../../Unreal Projects/CGP_Project2/Content/UI/Main_Menu_Widget.uasset" 686
-"../../../../../Unreal Projects/CGP_Project2/Content/UI/Main_menu.umap" 687
-"../../../../../Unreal Projects/CGP_Project2/Content/UI/win_screen_image__2_.uasset" 688
-"../../../../../Unreal Projects/CGP_Project2/Content/UI/Win_screen_widget.uasset" 689
-"../../../../../Unreal Projects/CGP_Project2/Content/UI/Win_screen.umap" 690
+"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/CheckpointSystem_BP/RespawnBP.uasset" 507
+"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/CheckpointSystem_BP/Checkpoint_recover.uasset" 508
+"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset" 509
+"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/CheckpointSystem_BP/DeathBox.uasset" 510
+"../../../../../Unreal Projects/CGP_Project2/Content/TestLevel_1/TestLevel_Blueprints/lambert1.uasset" 511
+"../../../../../Unreal Projects/CGP_Project2/Content/TestLevel_1/TestLevel_Blueprints/wall.uasset" 512
+"../../../../../Unreal Projects/CGP_Project2/Content/TestLevel_1/TestLevel_Blueprints/wall_DM.uasset" 513
+"../../../Engine/Content/MapTemplates/TilingNoise05.uasset" 514
+"../../../../../Unreal Projects/CGP_Project2/Content/Rock_N_T.uasset" 515
+"../../../../../Unreal Projects/CGP_Project2/Content/Snow_N_T.uasset" 516
+"../../../../../Unreal Projects/CGP_Project2/Content/Ice_mat.uasset" 517
+"../../../../../Unreal Projects/CGP_Project2/Content/TestLevel_1/TestLevel_Blueprints/BreakableWall.uasset" 518
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Materelas/gyser1.uasset" 519
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Materelas/lambert34.uasset" 520
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/gyser.uasset" 521
+"../../../../../Unreal Projects/CGP_Project2/Content/Fx/11.uasset" 522
+"../../../../../Unreal Projects/CGP_Project2/Content/Fx/Wind_M.uasset" 523
+"../../../../../Unreal Projects/CGP_Project2/Content/Fx/eruption_p_H.uasset" 524
+"../../../../../Unreal Projects/CGP_Project2/Content/Fx/eruption_p.uasset" 525
+"../../../../../Unreal Projects/CGP_Project2/Content/TestLevel_1/TestLevel_Blueprints/JumpPad.uasset" 526
+"../../../../../Unreal Projects/CGP_Project2/Content/Level1_BuiltData.uasset" 527
+"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/snow_terrain_base.uasset" 528
+"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Materials/winter_terrain.uasset" 529
+"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 530
+"../../Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 531
+"../../Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uasset" 532
+"../../Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uasset" 533
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uasset" 534
+"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeFloat.uasset" 535
+"../../../../../Unreal Projects/CGP_Project2/Content/weather/Snow_EM.uasset" 536
+"../../../../../Unreal Projects/CGP_Project2/Content/weather/Snow.uasset" 537
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 538
+"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/CheckpointSystem_BP/Feathercount_BP.uasset" 539
+"../../../../../Unreal Projects/CGP_Project2/Content/UI/Icon_v2__2_.uasset" 540
+"../../../../../Unreal Projects/CGP_Project2/Content/UI/Feather_Icon.uasset" 541
+"../../../../../Unreal Projects/CGP_Project2/Content/UI/Ingame_UI.uasset" 542
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/B1.uasset" 543
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Materelas/BS-2B.uasset" 544
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Materelas/lambert31.uasset" 545
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/B2.uasset" 546
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Materelas/lambert32.uasset" 547
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/B3.uasset" 548
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Textures/Stairs/stairs__1__lambert8_OcclusionRoughnessMetallic.uasset" 549
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Textures/Stairs/stairs__1__lambert8_Normal.uasset" 550
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Textures/Stairs/stairs__1__lambert8_BaseColor.uasset" 551
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Textures/Stairs/Stairs_M.uasset" 552
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/stairs__2_.uasset" 553
+"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/CheckpointSystem_BP/star.uasset" 554
+"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/CheckpointSystem_BP/Star_Widget.uasset" 555
+"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/CheckpointSystem_BP/StarSpin_BP.uasset" 556
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Materelas/BS-1B.uasset" 557
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/Materelas/lambert30.uasset" 558
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Ice_Platforms/B-small.uasset" 559
+"../../../../../Unreal Projects/CGP_Project2/Content/TestLevel_1/TestLevel_Blueprints/MovingPlatform.uasset" 560
+"../../../../../Unreal Projects/CGP_Project2/Content/Transform.uasset" 561
+"../../../../../Unreal Projects/CGP_Project2/Content/Level1.umap" 562
+"../../Plugins/FX/Niagara/Content/Modules/Update/Material/DynamicMaterialParameters.uasset" 563
+"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeVector.uasset" 564
+"../../Plugins/FX/Niagara/Content/DynamicInputs/LinearColor/MultiplyLinearColor.uasset" 565
+"../../../../../Unreal Projects/CGP_Project2/Content/enemies/P-Tor_2.uasset" 566
+"../../../../../Unreal Projects/CGP_Project2/Content/enemies/wind.uasset" 567
+"../../../../../Unreal Projects/CGP_Project2/Content/enemies/bird.uasset" 568
+"../../../../../Unreal Projects/CGP_Project2/Content/Portal_BP_winning.uasset" 569
+"../../../../../Unreal Projects/CGP_Project2/Content/Fx/Wind_P.uasset" 570
+"../../../../../Unreal Projects/CGP_Project2/Content/TestLevel_1/TestLevel_Blueprints/Gustwind_bp.uasset" 571
+"../../../../../Unreal Projects/CGP_Project2/Content/Fx/P-Tor.uasset" 572
+"../../../../../Unreal Projects/CGP_Project2/Content/TestLevel_1/TestLevel_Blueprints/JumpPad_H_BP.uasset" 573
+"../../../../../Unreal Projects/CGP_Project2/Content/Level3_BuiltData.uasset" 574
+"../../../../../Unreal Projects/CGP_Project2/Content/weather/pngfind_com-feathers-png-474261.uasset" 575
+"../../../../../Unreal Projects/CGP_Project2/Content/weather/Feather_M.uasset" 576
+"../../../../../Unreal Projects/CGP_Project2/Content/weather/Feather_EM.uasset" 577
+"../../../../../Unreal Projects/CGP_Project2/Content/weather/Feather.uasset" 578
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Cloud_Platforms/Cloud1a1.uasset" 579
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Cloud_Platforms/lambert38.uasset" 580
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Cloud_Platforms/Cloud1a.uasset" 581
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Cloud_Platforms/Cloud5.uasset" 582
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Cloud_Platforms/lambert44.uasset" 583
+"../../../../../Unreal Projects/CGP_Project2/Content/Updated_Platform/Textured_Cloud_Platforms/Cloud4.uasset" 584
+"../../../../../Unreal Projects/CGP_Project2/Content/Level3.umap" 585
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 586
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 587
+"../../../../../Unreal Projects/CGP_Project2/Content/enemies/MonkeyHealthbar_WBP.uasset" 588
+"../../../../../Unreal Projects/CGP_Project2/Content/enemies/Monkey_AI.uasset" 589
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 590
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Animations/ThirdPersonRun.uasset" 591
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 592
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 593
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 594
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 595
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 596
+"../../../../../Unreal Projects/CGP_Project2/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 597
+"../../../../../Unreal Projects/CGP_Project2/Content/enemies/Monkey.uasset" 598
+"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/SM_grass_c_n.uasset" 599
+"../../../../../Unreal Projects/CGP_Project2/Content/Level4_BuiltData.uasset" 600
+"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/grass_fall_a_d.uasset" 601
+"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/grass_fall_a_n.uasset" 602
+"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/SM_grass_c_d.uasset" 603
+"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Textures/SM_ground_gravel_b_d.uasset" 604
+"../../../../../Unreal Projects/CGP_Project2/Content/PhotoR_Backgrounds/Materials/summer_terrain.uasset" 605
+"../../../../../Unreal Projects/CGP_Project2/Content/weather/Mango-Leaf-Decoration-PNG.uasset" 606
+"../../../../../Unreal Projects/CGP_Project2/Content/weather/Leaf_M.uasset" 607
+"../../../../../Unreal Projects/CGP_Project2/Content/weather/LeafEM.uasset" 608
+"../../../../../Unreal Projects/CGP_Project2/Content/weather/Leaf.uasset" 609
+"../../../../../Unreal Projects/CGP_Project2/Content/Background/tree__5_.uasset" 610
+"../../../../../Unreal Projects/CGP_Project2/Content/Background/lambert19.uasset" 611
+"../../../../../Unreal Projects/CGP_Project2/Content/Background/tree__3_.uasset" 612
+"../../../../../Unreal Projects/CGP_Project2/Content/Background/lambert18.uasset" 613
+"../../../../../Unreal Projects/CGP_Project2/Content/Background/tree-4.uasset" 614
+"../../../../../Unreal Projects/CGP_Project2/Content/Portal_BP_Snow.uasset" 615
+"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Textures/grass_spec.uasset" 616
+"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Textures/grass_opacity.uasset" 617
+"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Textures/grass_normal.uasset" 618
+"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Textures/grass_albedo.uasset" 619
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 620
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/SpeedTree/SpeedTreeColorVariation.uasset" 621
+"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Materials/MaterialCollection.uasset" 622
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectPivotPoint.uasset" 623
+"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Materials/Bending.uasset" 624
+"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Materials/Interaction.uasset" 625
+"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Materials/MA_OpenWorldFoliage.uasset" 626
+"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Materials/MI_OpenWorldFoliage.uasset" 627
+"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Meshes/openWorld_grass_01_01_03.uasset" 628
+"../../../../../Unreal Projects/CGP_Project2/Content/Level4.umap" 629
+"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Meshes/openWorld_flower_02_02.uasset" 630
+"../../../../../Unreal Projects/CGP_Project2/Content/PN_OpenWorldFoliage/Meshes/openWorld_flower_01_02.uasset" 631
+"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/lambert10.uasset" 632
+"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/aiStandardSurface16.uasset" 633
+"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/F-7.uasset" 634
+"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/lambert8.uasset" 635
+"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/aiStandardSurface14.uasset" 636
+"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/aiStandardSurface13.uasset" 637
+"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/F-5.uasset" 638
+"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/aiStandardSurface11.uasset" 639
+"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/F-3.uasset" 640
+"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/aiStandardSurface7.uasset" 641
+"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/F-2.uasset" 642
+"../../../../../Unreal Projects/CGP_Project2/Content/weather/pinpng_com-flower-petals-png-240395.uasset" 643
+"../../../../../Unreal Projects/CGP_Project2/Content/weather/Petal_M.uasset" 644
+"../../../../../Unreal Projects/CGP_Project2/Content/weather/Petal.uasset" 645
+"../../../../../Unreal Projects/CGP_Project2/Content/weather/Patel_sy.uasset" 646
+"../../../../../Unreal Projects/CGP_Project2/Content/Level5_BuiltData.uasset" 647
+"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/lambert7.uasset" 648
+"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/aiStandardSurface8.uasset" 649
+"../../../../../Unreal Projects/CGP_Project2/Content/Flower_model/F-2A.uasset" 650
+"../../../Engine/Content/BasicShapes/Cone.uasset" 651
+"../../../../../Unreal Projects/CGP_Project2/Content/enemies/Bee_bullet.uasset" 652
+"../../../../../Unreal Projects/CGP_Project2/Content/enemies/Bee.uasset" 653
+"../../../../../Unreal Projects/CGP_Project2/Content/Portal_BP_Forest.uasset" 654
+"../../../../../Unreal Projects/CGP_Project2/Content/Level5.umap" 655
+"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/CheckpointSystem_BP/Hint_Widget.uasset" 656
+"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/CheckpointSystem_BP/Hint_BP.uasset" 657
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 658
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 659
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 660
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 661
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 662
+"../../../../../Unreal Projects/CGP_Project2/Content/TestLevel_1/TestLevel_1_BuiltData.uasset" 663
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 664
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 665
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 666
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 667
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 668
+"../../../../../Unreal Projects/CGP_Project2/Content/TestLevel_1/TestLevel_1.umap" 669
+"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/Blueprints/MenuMode.uasset" 670
+"../../../../../Unreal Projects/CGP_Project2/Content/UI/lose_screen_image.uasset" 671
+"../../../../../Unreal Projects/CGP_Project2/Content/UI/Lose_widget.uasset" 672
+"../../../../../Unreal Projects/CGP_Project2/Content/UI/Lose_screen.umap" 673
+"../../../../../Unreal Projects/CGP_Project2/Content/UI/wings_title.uasset" 674
+"../../../../../Unreal Projects/CGP_Project2/Content/UI/Controller__1_.uasset" 675
+"../../../../../Unreal Projects/CGP_Project2/Content/UI/Loading.uasset" 676
+"../../../../../Unreal Projects/CGP_Project2/Content/UI/button_quit_pressed.uasset" 677
+"../../../../../Unreal Projects/CGP_Project2/Content/UI/button_quit_hover.uasset" 678
+"../../../../../Unreal Projects/CGP_Project2/Content/UI/button_quit.uasset" 679
+"../../../../../Unreal Projects/CGP_Project2/Content/UI/button_play_pressed.uasset" 680
+"../../../../../Unreal Projects/CGP_Project2/Content/UI/button_play_hover.uasset" 681
+"../../../../../Unreal Projects/CGP_Project2/Content/UI/button_play.uasset" 682
+"../../../../../Unreal Projects/CGP_Project2/Content/UI/Main_Menu_Widget.uasset" 683
+"../../../../../Unreal Projects/CGP_Project2/Content/UI/Main_menu.umap" 684
+"../../../../../Unreal Projects/CGP_Project2/Content/UI/win_screen_image__2_.uasset" 685
+"../../../../../Unreal Projects/CGP_Project2/Content/UI/Win_screen_widget.uasset" 686
+"../../../../../Unreal Projects/CGP_Project2/Content/UI/Win_screen.umap" 687
+"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset" 688
+"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/Blueprints/halo.uasset" 689
+"../../../../../Unreal Projects/CGP_Project2/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" 690
 "../../../Engine/Content/Maps/Entry_BuiltData.uasset" 691
 "../../../Engine/Content/Maps/Entry.umap" 692
